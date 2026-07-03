@@ -21,7 +21,7 @@ export function Footer() {
                 {siteConfig.name}
               </span>
               <p className="text-[10px] tracking-[0.25em] uppercase text-gold mt-0.5">
-                Propiedades de lujo
+                Sales • Rentals • Management • Construction
               </p>
             </Link>
             <p className="text-body-sm text-white/60 leading-relaxed mb-6">

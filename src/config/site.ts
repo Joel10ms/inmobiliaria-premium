@@ -1,6 +1,6 @@
 export const siteConfig = {
-  name: "Élite Propiedades",
-  tagline: "Donde el lujo encuentra su hogar",
+  name: "V Luxury Real Estate",
+  tagline: "Puerto vallarta, Jalisco",
   description:
     "Inmobiliaria premium especializada en propiedades exclusivas. Ofrecemos residencias de lujo, departamentos premium y propiedades comerciales de alto standing.",
   url: process.env.NEXT_PUBLIC_SITE_URL ?? "https://elitepropiedades.com",
